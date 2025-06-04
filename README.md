@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Bastián Medina
 
-<!--
-**basy-medy/basy-medy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Planificación Urbana**  
+🏛️ Pontificia Universidad Católica de Chile  
+📊 **Minor en Ciencia de Datos**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌆 Sobre mí
+
+Actualmente estudio Planificación Urbana en la UC, donde me apasiona entender cómo las ciudades crecen, cambian y se conectan. Mi enfoque está en utilizar herramientas basadas en datos para mejorar la toma de decisiones urbanas, desde la movilidad hasta el desarrollo sostenible.
+
+Estoy complementando mi formación con un minor en Ciencia de Datos, lo que me ha permitido incorporar análisis cuantitativo, visualización de datos y programación en Python a mis proyectos urbanos.
+
+---
+
+## 💻 Áreas de interés
+
+- Planificación territorial y urbana
+- Visualización geoespacial (GIS)
+- Análisis de datos urbanos
+- Python, R, QGIS
+- Políticas públicas y sostenibilidad
+
+---
+
+## 📂 Proyectos 
+
+- 📍 Central de Apuntes del Major de Planificación Urbana
+
+---
+
+## 📫 Cómo contactarme
+
+- ✉️ [basy.medy@uc.cl](basy.medy@uc.cl)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/basti%C3%A1n-medina-71a429334/)
+- 📬 Telegram: [@tempano9](https://t.me/tempano9)
+- 📍 Santiago, Chile
+
+---
