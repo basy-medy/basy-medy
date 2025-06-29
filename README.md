@@ -34,7 +34,7 @@ Estoy complementando mi formación con un minor en Ciencia de Datos, lo que me h
 
 - ✉️ [basy.medy@uc.cl](basy.medy@uc.cl)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/basti%C3%A1n-medina-71a429334/)
-- 📬 Telegram: [@tempano9](https://t.me/tempano9)
+- 📬 Telegram: [@tempano9](https://t.me/basy_medy)
 - 📍 Santiago, Chile
 
 ---
